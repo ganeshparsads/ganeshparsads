@@ -39,7 +39,7 @@ With over 7+ years of Machine Learning and Software Engineering experience, I am
 ## 🛸 Check this out
 
 <a href="https://github.com/ganeshparsads/Clustering-Real-World-Images">
-<img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
+<img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=ganeshparsads&repo=Clustering-Real-World-Images&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
 
 <a href="https://github.com/ganeshparsads/LearnToRank">
