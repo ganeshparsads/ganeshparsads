@@ -42,8 +42,8 @@ With over 7+ years of Machine Learning and Software Engineering experience, I am
 <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=ganeshparsads&repo=Clustering-Real-World-Images&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
 
-<a href="https://github.com/ganeshparsads/LearnToRank">
-<img  align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=my-own-GPT&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=12D892" />
+<a href="https://github.com/ganeshparsads/OutFitCompatibility">
+<img  align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=ganeshparsads&repo=OutFitCompatibility&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=12D892" />
 </a>
 
 
