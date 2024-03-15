@@ -4,7 +4,7 @@
 
 I'm Ganesh Prasad Shivakumar, an experienced leader who is passionate about building high impact teams and systems that enhance user experience and/or user value. My areas of interest include Recommendation Systems, Personalization, Marketing Technology, Growth, Online Advertising, LLMs, and Generative AI.
 
-With over 7+ years of Machine Learning and Software Engineering experience, I am a passionate and innovative research engineer who specializes in deep learning, computer vision, and generative AI. My mission is to leverage AI for social good and to create positive impact in the world. I worked at Amazon and AmazonRobotics, where I focus on integrity for Data Gathering, Data Lakes, Data Partitioning, Generative AI, semantic segmentation, MultiModal Transformers, LLMs.
+With over 7+ years of Machine Learning and Software Engineering experience in e-commerce Search and Relevance, I am a passionate and innovative research engineer who specializes in deep learning, Natural Language Processing, and generative AI. My mission is to leverage AI for social good and to create positive impact in the world. I worked at Amazon and AmazonRobotics, where I focus on integrity for Data Gathering, Data Lakes, Data Partitioning, Generative AI, semantic segmentation, MultiModal Transformers, LLMs.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
